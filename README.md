@@ -2,11 +2,9 @@
   <h1>Welcome to Crework - Web Development 👋🎲</h1>
 </div>
 
-# Crework-Web-Development
-
 This repository is a hub of all my learnings I go through while in Crework for the Web Development. I'm looking forward to broadening my vision and goals alongside building cool projects.
 
-### Tech Stacks : HTML
+#### Tech Stacks : HTML
 
 <h2>Practice Projects</H2>
 
