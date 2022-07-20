@@ -8,7 +8,7 @@ This repository is a hub of all my learnings I go through while in Crework for t
 
 <h2>Practice Projects</H2>
 
-- [Coffee Junkie](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Practice%20Projects/Coffee%20Junkie)
+- 1. [Coffee Junkie](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Practice%20Projects/Coffee%20Junkie)
 
 <h2>Weekly Tasks</h2>
 
