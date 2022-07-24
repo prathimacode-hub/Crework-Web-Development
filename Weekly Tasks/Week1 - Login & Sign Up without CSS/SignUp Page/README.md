@@ -1,4 +1,4 @@
-# Login Page without CSS
+# SugnUp Page without CSS
 
 Outcome Result
 
