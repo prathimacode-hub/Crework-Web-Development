@@ -1,4 +1,4 @@
-# SugnUp Page without CSS
+# SignUp Page without CSS
 
 Outcome Result
 
