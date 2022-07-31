@@ -9,11 +9,12 @@ This repository is a hub of all my learnings I go through while in Crework for t
 <h2>Practice Projects</H2>
 
 - Week 1 : [Coffee Junkie](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Practice%20Projects/Coffee%20Junkie)
+- Week 2 : [Link Tree](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Practice%20Projects/LinkTree) [In Progress]
 
 <h2>Weekly Tasks</h2>
 
 - Week 1 : [Login & SignUp without CSS](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week1%20-%20Login%20%26%20Sign%20Up%20without%20CSS)
-
+- Week 2 : [Login & SignUp with CSS](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week2%20-%20Login%20%26%20Sign%20Up%20with%20CSS)
 
 
 
