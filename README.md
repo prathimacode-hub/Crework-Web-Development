@@ -13,10 +13,12 @@ This repository is a hub of all my learnings I go through while in Crework for t
 
 <h2>Weekly Tasks</h2>
 
-- Week 1 : [Login & SignUp without CSS](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week1%20-%20Login%20%26%20Sign%20Up%20without%20CSS)
-- Week 2 : [Login & SignUp with CSS](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week2%20-%20Login%20%26%20Sign%20Up%20with%20CSS)
+- Week 1 : [Login & SignUp Form without CSS](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week1%20-%20Login%20%26%20Sign%20Up%20without%20CSS)
+- Week 2 : [Login & SignUp Form with CSS](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week2%20-%20Login%20%26%20Sign%20Up%20with%20CSS)
 - Week 3 : [BigBasket Clone](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week3%20-%20BigBasket%20Clone)
-
+- Week 4 : [Login & SingUp Form with JS](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week4%20-%20Login%20%26%20SignUp%20form%20with%20JS)
+- Week 5 : [Color Palette Generator](https://github.com/prathimacode-hub/Crework-Web-Development/tree/main/Weekly%20Tasks/Week5%20-%20Random%20Color%20Palette%20Generator)
+- Week 6 : []()
 
 
 © 2022 Prathima Kadari
