@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TO DO LIST</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+
+    <header>
+        <h1>To Do List To Complete</h1>
+        <form id="new-task-form">
+            <input type="text" name="new-task-input" id="new-task-input" placeholder="What do you have planned?" />
+            <input type="submit" id="new-task-submit" value="Add task" />
+        </form>
+    </header>
+    <main>
+        <section class="task-list">
+            <h2><strong>Tasks</strong></h2>
+
+            <div id="tasks">
+
+            </div>
+        </section>
+        <section class="inspiration">
+            <textarea id="quote" name="quote" rows="2" cols="75"> “Your talent determines what you can do. Your motivation determines how much you are willing to do. Your attitude determines how well you do it.” — Lou Holtz
+            </textarea>
+        </section>
+    </main>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>
